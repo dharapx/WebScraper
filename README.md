@@ -12,7 +12,8 @@ For input: https://www.nuance.com/ , get all job URLs from this page: https://nu
 
 System should be generic to find career page of any website
 After finding career page, find all job urls. We only need to save Job URLs. We don't require to scrape the job descriptions and details of it.
-Includes these in solution:
-    High level design with components
-    Tech stack( Include major tools/frameworks/libraries)
-    Assumptions and limitations of the system
+
+***Includes these in solution:***
+    * High level design with components
+    * Tech stack( Include major tools/frameworks/libraries)
+    * Assumptions and limitations of the system
